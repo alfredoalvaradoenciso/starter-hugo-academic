@@ -4,11 +4,11 @@ authors:
 - admin
 - Rafael Novella
 - David Rosas-Shady
-date: "2015-09-01T00:00:00Z"
+date: "2023-03-23T00:00:00Z"
 doi: "10.1093/scipol/scad007"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-03-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Science and Public Policy,*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Forecasts about the effects of new technologies on labor demand are generally pessimistic. However, little is known about the current level of technology adoption and its effect on labor demand, particularly in developing countries. This paper exploits a national representative employer survey and administrative data from Peru to offer empirical evidence in this regard. Our results show that the adoption of new technologies by firms is still incipient in the country. However, when adopted, they slightly reduce the demand for workers in the medium term, particularly those in high-skilled and non-routine occupations, with a temporary job contract, and during the COVID-19 pandemic.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -32,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: http://https://alfredoalvaradoenciso.github.io/uploads/Are_We_Nearly_There_Yet_New_Technology_Adoption_and_Labor_Demand_in_Peru.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
