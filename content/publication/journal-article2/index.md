@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://https://alfredoalvaradoenciso.github.io/uploads/Are_We_Nearly_There_Yet_New_Technology_Adoption_and_Labor_Demand_in_Peru.pdf
+url_pdf: https://alfredoalvaradoenciso.github.io/uploads/are_we_nearly_there_yet.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
