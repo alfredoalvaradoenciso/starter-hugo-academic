@@ -26,7 +26,10 @@ abstract: Forecasts about the effects of new technologies on labor demand are ge
 summary: 
 
 tags:
-- Source Themes
+- automation
+- labor demand
+- employer survey
+- employer–employee data
 featured: false
 
 # links:
