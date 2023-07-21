@@ -17,13 +17,13 @@ publishDate: "2023-03-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science and Public Policy,*"
+publication: "*Science and Public Policy*"
 publication_short: ""
 
 abstract: Forecasts about the effects of new technologies on labor demand are generally pessimistic. However, little is known about the current level of technology adoption and its effect on labor demand, particularly in developing countries. This paper exploits a national representative employer survey and administrative data from Peru to offer empirical evidence in this regard. Our results show that the adoption of new technologies by firms is still incipient in the country. However, when adopted, they slightly reduce the demand for workers in the medium term, particularly those in high-skilled and non-routine occupations, with a temporary job contract, and during the COVID-19 pandemic.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -43,10 +43,6 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
