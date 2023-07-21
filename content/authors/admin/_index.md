@@ -26,10 +26,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Labor economics and informality
+  - Labor markets and informality
   - Productivity and innovation
   - Taxation and fiscal policies
-  - Skills and human capital development
+  - Skills measurement survey
 
 # Education to show in About widget
 education:
