@@ -64,6 +64,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+title: "Are we nearly there yet? New technology adoption and labor demand in Peru"
+authors:
+- admin
+- Rafael Novella
+- David Rosas-Shady
+---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
