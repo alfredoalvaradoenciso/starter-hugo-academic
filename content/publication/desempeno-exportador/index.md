@@ -17,7 +17,7 @@ publishDate: "2015-10-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Ministerio de la Produccion"
 publication_short: ""
 
 abstract: Análisis del comercio internacional de Perú con países industrializados revela una dependencia de exportaciones basadas en recursos naturales, impulsadas por altos precios minerales. Sin embargo, estos países también importan productos manufacturados, como cobre refinado y vegetales preparados. En la última década, Perú ha buscado diversificar su canasta exportadora mediante acuerdos comerciales, aunque inicialmente la coyuntura económica no favoreció tal transformación. Recientemente, debido a la caída de los precios de los metales, las exportaciones se han reorientado hacia mercados andinos y sectores no tradicionales. Aunque las exportaciones industriales aún son modestas, se espera retomar el crecimiento previo a la crisis económica. Otros países latinoamericanos han incrementado sus exportaciones manufactureras de baja, media y alta tecnología debido a un crecimiento moderado.
