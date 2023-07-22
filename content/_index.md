@@ -19,7 +19,7 @@ sections:
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       count: 5
-	  filters:
+      filters:
         folders:
           - publication
         exclude_featured: true
