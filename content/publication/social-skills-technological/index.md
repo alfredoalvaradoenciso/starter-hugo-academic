@@ -24,10 +24,11 @@ abstract: The discussion about how technological change affects labor market out
 summary: 
 
 tags:
-- intensidad tecnologica
-- international trade
-- Peru
-- tecnology
+- social skills
+- wage
+- socioemotional skills
+- technology
+- regression discontinuity
 featured: false
 
 links:

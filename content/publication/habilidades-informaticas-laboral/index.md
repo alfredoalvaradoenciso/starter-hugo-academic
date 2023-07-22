@@ -2,6 +2,7 @@
 title: "Las habilidades informaticas y el mercado laboral en el Peru"
 authors:
 - admin
+- Tamia Lavado
 date: "2021-07-01T00:00:00Z"
 doi: ""
 
