@@ -2,7 +2,8 @@
 title: "Desempeño Exportador del Sector Manufactura por Intensidad Tecnológica"
 authors:
 - admin
-- Renzo José Figueroa Palomino
+- Renzo Figueroa
+- Edson Cordova
 date: "2015-10-01T00:00:00Z"
 doi: ""
 
