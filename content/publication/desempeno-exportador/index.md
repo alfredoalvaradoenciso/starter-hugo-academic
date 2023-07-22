@@ -29,7 +29,7 @@ tags:
 - intensidad tecnologica
 - international trade
 - Peru
-- tecnology
+- technology
 featured: false
 
 links:

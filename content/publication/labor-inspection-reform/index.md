@@ -27,6 +27,7 @@ tags:
 - informal
 - employment
 - regression discontinuity
+- DID
 - Peru
 featured: false
 

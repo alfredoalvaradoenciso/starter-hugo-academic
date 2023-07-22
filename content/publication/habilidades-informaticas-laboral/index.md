@@ -28,7 +28,7 @@ tags:
 - digital skills
 - employment
 - Peru
-- tecnology
+- technology
 - wage
 featured: false
 

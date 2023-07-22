@@ -27,10 +27,10 @@ summary:
 
 tags:
 - automation
-- labor demand
 - employment
 - employer survey
 - technology
+- instrumental variable
 featured: false
 
 # links:
