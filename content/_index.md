@@ -12,7 +12,7 @@ sections:
     username: admin
   - block: collection
   	id: publications
-	  content:
+    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
