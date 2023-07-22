@@ -1,7 +1,6 @@
 # Media
 ## Contributions to public policy debates
 
-
 - [Sunafil: estrategia disminuye el incumplimiento de los derechos laborales](https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx).
 
 - [El rompecabezas de la informalidad](http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/).
