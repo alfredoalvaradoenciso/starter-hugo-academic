@@ -29,20 +29,12 @@ image:
   preview_only: false
 
 authors:
-  - admin
-  - 吳恩達
 
 tags:
 
 categories:
-  - Demo
-  - 教程
----
 
-```python
-import libr
-print('hello')
-```
+---
 
 ## Overview
 
