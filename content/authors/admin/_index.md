@@ -27,7 +27,7 @@ bio:
 # Interests to show in About widget
 interests:
   - Labor markets and informality
-  - Productivity and innovation
+  - Productivity
   - Policy impact evaluation
   - Skills measurement survey
 
