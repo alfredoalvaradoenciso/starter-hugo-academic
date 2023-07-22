@@ -27,6 +27,8 @@
 
 - [¿Reducir costos laborales aumenta la formalidad y desempeño de las empresas?](https://larazon.pe/reducir-costos-laborales-aumenta-la-formalidad-y-desempeno-de-las-empresas/). [Link 2](https://twitter.com/alfredoman/status/1342199821873065986).
 
+- [Peruanos debaten sobre la Economía de la Informalidad](https://larazon.pe/peruanos-debaten-sobre-la-economia-de-la-informalidad/).
 
+- [Peruanos debaten sobre la Economía de la Informalidad](https://larazon.pe/peruanos-debaten-sobre-la-economia-de-la-informalidad/).
 
-
+- [Debate latinoamericano para solucionar informalidad](https://larazon.pe/debate-latinoamericano-para-solucionar-informalidad/).
