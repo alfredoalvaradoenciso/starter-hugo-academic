@@ -1,6 +1,6 @@
 ---
 title: EconAndes
-summary: Somos EconAndes - Economía Antirracista y Decolonial en el Sur, espacio de jóvenes economistas dispuestxs a ampliar el debate académico y las políticas públicas.
+summary: Economía Antirracista y Decolonial en el Sur, espacio de jóvenes economistas dispuestxs a ampliar el debate académico y las políticas públicas.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,6 +1,6 @@
 ---
 title: Economica
-summary: Co-founder and Director at Economica (http://economica.pe) during 2014. Economica is a newspaper printed
+summary: Co-founder and Director at Economica during 2014. Economica is a newspaper printed
 in magazine-format that focuses on Peruvian economic current affairs and academic research.
 date: "2016-04-27T00:00:00Z"
 
