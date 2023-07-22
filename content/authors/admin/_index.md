@@ -8,7 +8,7 @@ last_name: Alvarado Enciso
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤗
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an economist for the Equitable Growth, Finance and Institutions (EFI) LAC Front Office at the World Bank. I am responsible for monitoring and ensuring the quality of analytical reports, papers and lending operations. I also maintain interactions with key stakeholders to promote engagement in our projects that aims to boost economic and inclusive growth. I have experience designing national policies, generating evidence for policymaking, and conducting media-impactful research. I worked as an economist in the public sector in Peru concerning private sector development, labor, and education. I also worked at the Inter-American Development Bank, supporting research agenda on labor and human capital issues and impact evaluation products for various countries.
+I am an economist for the Equitable Growth, Finance and Institutions (EFI) LAC office at the World Bank. I am responsible for monitoring and ensuring the quality of analytical reports and lending operations. Additionally, I actively promote engagement in our projects aimed at fostering economic and inclusive growth. Previously, I have designed national policies, generated evidence for policymaking, and conducted media-impactful research. I also worked in the public sector in Peru in the areas of private sector development, labor, and education. Moreover, I worked at the Inter-American Development Bank, supporting the research agenda on labor and human capital issues and impact evaluation products.
 {style="text-align: justify;"}
