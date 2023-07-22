@@ -28,8 +28,9 @@ summary:
 tags:
 - automation
 - labor demand
+- employment
 - employer survey
-- employer–employee data
+- technology
 featured: false
 
 # links:

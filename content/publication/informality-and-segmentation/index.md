@@ -24,9 +24,8 @@ abstract: The academic debate about informality has discussed whether this impli
 summary: 
 
 tags:
-- Informality
-- Entry barriers
-- Employment
+- informal
+- employment
 - Peru
 featured: false
 
