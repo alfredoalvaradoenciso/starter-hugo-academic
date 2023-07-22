@@ -1,6 +1,6 @@
 ---
 title: Economica
-summary: Co founder and Director at Economica during 2014. Economica is a newspaper printed in magazine format that focuses on Peruvian economic current affairs and academic research.
+summary: Co-founder and active alumni at Economica, an organization that promotes the dissemination of Peruvian economic current issues through posts, interviews, podcasts, virtual and printed magazines and social media content.
 tags:
 date: "2016-04-27T00:00:00Z"
 
@@ -8,6 +8,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://economica.pe/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Logo of Economica
   focal_point: Smart
 ---
