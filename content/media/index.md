@@ -9,4 +9,16 @@
 
 - [Sunafil: estrategia disminuye el incumplimiento de los derechos laborales](https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx).
 
-- [Viernes Económico | Empleo e Ingresos Laborales en el Perú.](https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/).
+- [Viernes Económico | Empleo e Ingresos Laborales en el Perú](https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/). [2](https://larazon.pe/empleo-e-ingresos-laborales-en-el-peru-en-el-viernes-economico/).
+
+- [Expectativas de contrataciones empresariales mejoran para el tercer trimestre](https://peru21.pe/economia/expectativas-contrataciones-empresariales-mejoran-tercer-trimestre-410149-noticia/).
+
+- [Alfredo Alvarado Enciso: «Es urgente erradicar la corrupción en el Perú»](https://elriohablador.wordpress.com/2022/05/03/alfredo-alvarado-enciso-es-urgente-erradicar-la-corrupcion-en-el-peru/).
+
+- [Perú tiene el mayor porcentaje de trabajadores sin contrato en América](https://larazon.pe/peru-tiene-el-mayor-porcentaje-de-trabajadores-sin-contrato-en-america/).
+
+- [El Perú es el segundo país más informal de América Latina](https://larazon.pe/el-peru-es-el-segundo-pais-mas-informal-de-america-latina/).
+
+- [Propuesta del MEF de impuestos a ricos](https://larazon.pe/propuesta-del-mef-de-impuestos-a-ricos/).
+
+- [La cura de la informalidad](https://larazon.pe/por-alfredo-alvarado-enciso-la-cura-de-la-informalidad/).
