@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: ''
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: ''
 
 # Is this an unpublished draft?
 draft: false
@@ -33,8 +33,6 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
-  - 开源
 
 categories:
   - Demo
