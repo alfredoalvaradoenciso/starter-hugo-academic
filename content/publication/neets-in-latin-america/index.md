@@ -18,7 +18,7 @@ publishDate: "2020-08-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of International Development*"
+publication: "*Journal of International Development, 32*(8), 1273-1307"
 publication_short: ""
 
 abstract: This paper studies the role of cognitive skills, socioemotional skills, aspirations and expectations on the likelihood of being NEET (not in education, employment or training) using a novel sample of 15 to 24 year old residents of seven Latin American and Caribbean countries. After controlling for sociodemographic household conditions, we find that numeracy and literacy skills, core self-evaluation, extraversion and educational aspirations are robust correlates of being NEET. We also find cross country heterogeneity. That is, in some countries, passion and perseverance for long-term goals, neuroticism and labour market information biases are additional factors associated with being NEET.
