@@ -9,7 +9,7 @@
 
 - [Sunafil: estrategia disminuye el incumplimiento de los derechos laborales](https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx).
 
-- [Viernes Económico | Empleo e Ingresos Laborales en el Perú](https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/). [2](https://larazon.pe/empleo-e-ingresos-laborales-en-el-peru-en-el-viernes-economico/).
+- [Viernes Económico | Empleo e Ingresos Laborales en el Perú](https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/). [Link 2](https://larazon.pe/empleo-e-ingresos-laborales-en-el-peru-en-el-viernes-economico/).
 
 - [Expectativas de contrataciones empresariales mejoran para el tercer trimestre](https://peru21.pe/economia/expectativas-contrataciones-empresariales-mejoran-tercer-trimestre-410149-noticia/).
 
@@ -19,6 +19,14 @@
 
 - [El Perú es el segundo país más informal de América Latina](https://larazon.pe/el-peru-es-el-segundo-pais-mas-informal-de-america-latina/).
 
-- [Propuesta del MEF de impuestos a ricos](https://larazon.pe/propuesta-del-mef-de-impuestos-a-ricos/).
+- [Propuesta del MEF de impuestos a ricos](https://larazon.pe/propuesta-del-mef-de-impuestos-a-ricos/). [Link 2](https://twitter.com/alfredoman/status/1453921517914501120).
 
-- [La cura de la informalidad](https://larazon.pe/por-alfredo-alvarado-enciso-la-cura-de-la-informalidad/).
+- [La cura de la informalidad](https://larazon.pe/por-alfredo-alvarado-enciso-la-cura-de-la-informalidad/). [Link 2](https://twitter.com/alfredoman/status/1355757435034677248).
+
+- [El pobre es pobre porque quiere](https://larazon.pe/el-pobre-es-pobre-porque-quiere/). [Link 2](https://twitter.com/alfredoman/status/1385129152391548930).
+
+- [¿Reducir costos laborales aumenta la formalidad y desempeño de las empresas?](https://larazon.pe/reducir-costos-laborales-aumenta-la-formalidad-y-desempeno-de-las-empresas/). [Link 2](https://twitter.com/alfredoman/status/1342199821873065986).
+
+
+
+
