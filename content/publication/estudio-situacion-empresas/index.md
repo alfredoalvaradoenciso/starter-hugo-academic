@@ -30,6 +30,8 @@ summary:
 
 tags:
 - productivity
+- innovation
+- informal
 - employer survey
 - Peru
 featured: false
