@@ -18,7 +18,7 @@ publishDate: "2019-03-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BID"
+publication: "Washington, DC: BID"
 publication_short: ""
 
 abstract: Existen indicios de que, en el Perú, la brecha de habilidades (entendida como la diferencia entre las habilidades demandadas por los empleadores y aquellas con las que cuentan los trabajadores) es grande. Estos indicios, sin embargo, están basados en mediciones poco fiables, cuyos resultados varían año tras año. Con el objetivo de contar con mejor información sobre esta brecha, entre los años 2017 y 2018, el Banco Interamericano de Desarrollo (BID) diseño y levantó, junto con el Instituto de Estadística e Informática (INEI) de Perú, la Encuesta de Habilidades al Trabajo (ENHAT), cuyo foco principal es entender la brecha de habilidades, así como sus causas y consecuencias. Esta información resulta clave para poder construir un sistema de identificación de necesidades de habilidades presentes y futuras en el país. Este documento presenta los principales resultados de la ENHAT 2017-2018 en Perú.
