@@ -20,7 +20,7 @@ publishDate: "2017-06-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Ministerio de la Produccion"
 publication_short: ""
 
 abstract: La Encuesta Nacional de Empresas 2015 (ENE 2015) ha sido realizada por el Ministerio de la Producción (PRODUCE) en cooperación con el Instituto Nacional de Estadística e Informática (INEI). El objetivo principal de esta encuesta es evidenciar y medir diferentes características de las unidades productivas con respecto a su organización, uso de tecnologías, acceso a insumos, comercialización, calidad en los procesos, capacitación, financiamiento, entre otras variables que se relacionan con los niveles de productividad y competitividad de las empresas. Los principales resultados de la encuesta evidencian las dificultades que enfrentan las empresas para su crecimiento y especialización que no permiten mejorar su productividad y mostrarse más competitivas a nivel local e internacional. Los principales problemas se encuentran en el difícil acceso al financiamiento, la baja penetración de tecnologías de la información y la comunicación (TIC), la falta de planificación y perfeccionamiento de los procesos productivos, la baja inversión en las certificaciones, entre otros. Estos problemas afectan, principalmente, a la micro y pequeña empresa (MYPE).
