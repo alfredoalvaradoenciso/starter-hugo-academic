@@ -26,10 +26,10 @@ abstract: Análisis del comercio internacional de Perú con países industrializ
 summary: 
 
 tags:
-- Intensidad tecnologica
-- Comercio internacional
+- intensidad tecnologica
+- international trade
 - Peru
-- Tecnologia
+- tecnology
 featured: false
 
 links:

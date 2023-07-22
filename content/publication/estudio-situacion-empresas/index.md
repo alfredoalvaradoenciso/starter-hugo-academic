@@ -29,10 +29,9 @@ abstract: La Encuesta Nacional de Empresas 2015 (ENE 2015) ha sido realizada por
 summary: 
 
 tags:
-- productividad
-- encuesta
+- productivity
+- employer survey
 - Peru
-- empresas
 featured: false
 
 links:
