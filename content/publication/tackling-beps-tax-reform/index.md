@@ -16,7 +16,7 @@ publishDate: "2023-07-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic System*"
+publication: "*Economic System* (Forthcoming)"
 publication_short: ""
 
 abstract: This study assesses the effect of a transfer pricing reform on tax payments at the firm level. Given the critical role that the consulting firms play in tax avoidance schemes, we include the effect on expenditure on tax advisory. Exploiting the particular feature of the reform, we use a regression discontinuity design to estimate the causal effect of the tax reform. We found that firms affected by the intervention paid more taxes on average in 2017. Although we do not find effects in 2018, we do not find conclusive evidence that spending on tax advisory drove such an effect.
