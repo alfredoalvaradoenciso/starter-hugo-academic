@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/are_we_nearly_there_yet.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
