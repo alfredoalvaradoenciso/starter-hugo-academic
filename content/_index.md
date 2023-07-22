@@ -10,20 +10,6 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    id: media
-    content:
-      title: Media
-      subtitle: Contributions to public policy debates
-      text: 
-      filters:
-        folders:
-          - media
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
-      view: compact
   - block: collection
     content:
       title: Recent Publications
@@ -38,6 +24,20 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: media
+    content:
+      title: Media
+      subtitle: Contributions to public policy debates
+      text: 
+      filters:
+        folders:
+          - media
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: list
   - block: tag_cloud
     content:
       title: Popular Topics
