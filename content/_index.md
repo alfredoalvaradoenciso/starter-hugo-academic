@@ -38,7 +38,7 @@ sections:
       title: Recent media
       subtitle: <a href='/media/'>See all media appearances</a>
       text: 
-	  #[El rompecabezas de la informalidad](http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/). 
+      #[El rompecabezas de la informalidad](http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/). 
       #<a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'>Sunafil: estrategia disminuye el incumplimiento de los derechos laborales</a>.
       filters:
         folders:
