@@ -14,7 +14,7 @@ sections:
     id: publications
     content:
       title: Recent Publications
-	  subtitle: <a href="/publication/">See all publications</a>
+	  subtitle: <a href='/publication/'>See all publications</a>
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -31,7 +31,7 @@ sections:
     id: media
     content:
       title: Recent media
-	  subtitle: <a href="/media/">See all media appearances</a>
+	  subtitle: <a href='/media/'>See all media appearances</a>
       text: 
       filters:
         folders:
