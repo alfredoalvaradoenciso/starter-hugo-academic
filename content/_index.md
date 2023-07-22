@@ -18,7 +18,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
@@ -30,14 +30,13 @@ sections:
     id: media
     content:
       title: Media
-      subtitle: Contributions to public policy debates
       text: 
       filters:
         folders:
           - media
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       # Choose your content listing view - here we use the `showcase` view
       view: list
   - block: tag_cloud
