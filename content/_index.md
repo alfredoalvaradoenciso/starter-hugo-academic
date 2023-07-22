@@ -15,10 +15,7 @@ sections:
     content:
       title: Recent Publications
       subtitle: <a href='/publication/'>See all publications</a>
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      text: 
       count: 3
       filters:
         folders:
