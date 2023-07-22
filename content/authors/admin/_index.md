@@ -28,7 +28,7 @@ bio:
 interests:
   - Labor markets and informality
   - Productivity and innovation
-  - Taxation and fiscal policies
+  - Impact evaluation for policies
   - Skills measurement survey
 
 # Education to show in About widget
