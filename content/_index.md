@@ -33,8 +33,8 @@ sections:
     id: media
     content:
       title: Recent media
-      subtitle: <ul> <li><a href='/media/'>See all media appearances</a>
-      text: <a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.</li> <li><a href='http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/'> El rompecabezas de la informalidad</a>.</li> <li><a href='https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/'> Viernes Económico Empleo e Ingresos Laborales en el Perú</a>.</li></ul>
+      subtitle: <a href='/media/'>See all media appearances</a>
+      text: <ul><li><a href='https://andina.pe/agencia/noticia-sunafil-estrategia-disminuye-incumplimiento-los-derechos-laborales-915898.aspx'> Sunafil estrategia disminuye el incumplimiento de los derechos laborales</a>.</li> <li><a href='http://blog.pucp.edu.pe/blog/idhal/2021/02/09/el-rompecabezas-de-la-informalidad/'> El rompecabezas de la informalidad</a>.</li> <li><a href='https://departamento.pucp.edu.pe/economia/charlas-y-conferencias/viernes-economico-empleo-e-ingresos-laborales-peru/'> Viernes Económico Empleo e Ingresos Laborales en el Perú</a>.</li></ul>
       filters:
         folders:
           - media
