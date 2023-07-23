@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'uploads/BEL_Habilidades_Digitales.pdf'
 url_source: 'https://www.gob.pe/institucion/mtpe/informes-publicaciones/2035027-boletin-de-economia-laboral-n-48'
 url_video: ''
 
