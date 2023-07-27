@@ -23,6 +23,9 @@
 
 - [El pobre es pobre porque quiere](https://larazon.pe/el-pobre-es-pobre-porque-quiere/). [Link 2](https://twitter.com/alfredoman/status/1385129152391548930).
 
+- [El 27% de las empresas emplean las nuevas tecnologías en el empleo](https://larazon.pe/el-27-de-las-empresas-emplean-las-nuevas-tecnologias-en-el-empleo/). 
+
+
 - [¿Reducir costos laborales aumenta la formalidad y desempeño de las empresas?](https://larazon.pe/reducir-costos-laborales-aumenta-la-formalidad-y-desempeno-de-las-empresas/). [Link 2](https://twitter.com/alfredoman/status/1342199821873065986).
 
 - [Peruanos debaten sobre la Economía de la Informalidad](https://larazon.pe/peruanos-debaten-sobre-la-economia-de-la-informalidad/).
