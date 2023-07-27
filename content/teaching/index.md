@@ -5,4 +5,6 @@
 
 - Intermediate Microeconomics. ECO744
 
-- Undergraduate Seminar. 1ECO48
+- Thesis Seminar 1. 1ECO48
+
+- Thesis Seminar 2. 1ECO48
