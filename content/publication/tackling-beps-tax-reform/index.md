@@ -3,11 +3,11 @@ title: "Tackling BEPS in the Global South: Evidence from Peru's Tax Reform"
 authors:
 - admin
 - Katia Toledo
-date: "2023-08-01T00:00:00Z"
-doi: ""
+date: "2023-07-28T00:00:00Z"
+doi: "10.1016/j.ecosys.2023.101122"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-22T00:00:00Z"
+publishDate: "2023-07-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2023-07-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Economic System* (Forthcoming)"
+publication: "*Economic System*"
 publication_short: ""
 
 abstract: This study assesses the effect of a transfer pricing reform on tax payments at the firm level. Given the critical role that the consulting firms play in tax avoidance schemes, we include the effect on expenditure on tax advisory. Exploiting the particular feature of the reform, we use a regression discontinuity design to estimate the causal effect of the tax reform. We found that firms affected by the intervention paid more taxes on average in 2017. Although we do not find effects in 2018, we do not find conclusive evidence that spending on tax advisory drove such an effect.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0939362523000560'
 url_code: ''
 url_dataset: ''
 url_poster: ''
