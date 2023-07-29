@@ -15,13 +15,8 @@ sections:
     content:
       title: cv
       text: You can download my CV here: <a href='/uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
-      filters:
-        folders:
-          - media
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
       view: list
   - block: collection
     id: publications
