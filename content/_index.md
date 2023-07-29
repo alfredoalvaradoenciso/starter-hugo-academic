@@ -10,6 +10,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
      username: admin
+  - block: markdown
+    id: cv
+    content:
+      title: CV
+      text: You can download my CV here: <a href='uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
+    design:
+      columns: '2'
   - block: collection
     id: publications
     content:
