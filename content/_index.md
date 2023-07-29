@@ -14,7 +14,7 @@ sections:
     id: cv
     content:
       title: cv
-      text: gaaa
+      text: You can download my CV here: <a href='/uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
       filters:
         folders:
           - media
@@ -22,14 +22,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       # Choose your content listing view - here we use the `showcase` view
-      view: list
-  - block: markdown
-    id: cv
-    content:
-      title: Cv
-      text: You can download my CV here: <a href='/uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
-    design:
-      columns: '2'
       view: list
   - block: collection
     id: publications
