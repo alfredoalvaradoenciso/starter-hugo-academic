@@ -14,7 +14,6 @@ sections:
     id: cv
     content:
       title: CV
-      subtitle: 
       text: You can download my CV here: <a href='/uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
     design:
       columns: '2'
