@@ -13,7 +13,6 @@ sections:
   - block: markdown
     id: cv
     content:
-      title: adasda
       text: You can download my CV here: <a href='/uploads/CV_AlfredoAlvarado.pdf'> CV_AlfredoAlvarado</a>
     design:
       columns: '2'
