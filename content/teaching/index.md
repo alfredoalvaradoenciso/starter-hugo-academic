@@ -15,7 +15,7 @@ Blanchard, O., Rabasco, E., Toharia, L., & Bentolila, S. (2004). Macroeconomía.
 
 Dornbusch, R., & Fisher, S., (2002). Macroeconomía
 
-Larraín, F., & Sachs, J. D. (2002). Macroeconomía en la econom ́ıa global. Pearson Educacion.
+Larraín, F., & Sachs, J. D. (2002). Macroeconomía en la economía global. Pearson Educacion.
 
 Jimenez, F. (2006). Macroeconomía: Enfoques y modelos.
 
