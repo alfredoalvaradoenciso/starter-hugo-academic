@@ -1,11 +1,13 @@
 # Teaching
 ## Pontificia Universidad Catolica del Peru
 
-- General Economics. ECO204
+{{< spoiler text="General Economics. ECO204" >}}
+{{< /spoiler >}}
 
-- Intermediate Microeconomics. ECO744
+{{< spoiler text="Intermediate Microeconomics. ECO744" >}}
+{{< /spoiler >}}
 
-- Thesis Seminar 1 & 2. 1ECO47 & 1ECO48 {{< spoiler text="Resources" >}}
+{{< spoiler text="Thesis Seminar 1 & 2. 1ECO47 & 1ECO48" >}}
 <a href="https://drive.google.com/file/d/1GDu0mfp_NsaNMPQYiIt19qpmIGzE_KK-/view?usp=drive_link">Writing Tips for Crafting Effective Economics Research Papers – 2023-2024 Edition</a>
 
 <a href="https://drive.google.com/file/d/18WNRkJPVwGDAb2VDX94yRdQ10rZw2k3g/view?usp=drive_link">How to Write Applied Papers in Economics</a>
