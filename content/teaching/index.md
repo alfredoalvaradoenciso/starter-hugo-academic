@@ -2,9 +2,33 @@
 ## Pontificia Universidad Catolica del Peru
 
 {{< spoiler text="General Economics. ECO204" >}}
+
+Krugman, P., Graddy, K., & Wells, R. (2013). Fundamentos de Economía. Barcelona: Reverte.
+
+Mankiw, N. G. (2012). Principios de economía. Madrid: McGraw-Hill, 2012
+
+Frank (2005). Microeconomía y conducta. Madrid: McGraw Hill
+
+Pindyck, R. (2001). Microeconomía
+
+Blanchard, O., Rabasco, E., Toharia, L., & Bentolila, S. (2004). Macroeconomía. Madrid: Pearson Educacion.
+
+Dornbusch, R., & Fisher, S., (2002). Macroeconomía
+
+Larraín, F., & Sachs, J. D. (2002). Macroeconomía en la econom ́ıa global. Pearson Educacion.
+
+Jimenez, F. (2006). Macroeconomía: Enfoques y modelos.
+
+Mendoza, W. (2018). Macroeconomía intermedia para America Latina: Tercera edicion. Fondo Editorial de la PUCP.
+
 {{< /spoiler >}}
 
 {{< spoiler text="Intermediate Microeconomics. ECO744" >}}
+
+Mas-Colell, A., R.D. Whinston and J.R., Green (1995) Microeconomic Theory. Oxford University Press
+
+Varian, H. (2010) Intermediate Microeconomics: A Modern Approach (Eighth Edition)
+
 {{< /spoiler >}}
 
 {{< spoiler text="Thesis Seminar 1 & 2. 1ECO47 & 1ECO48" >}}
