@@ -69,7 +69,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: alvarado.a@pucp.pe
+      email: alvaradoencisoa@gmail.com
       address:
         city: Washington
         region: DC
