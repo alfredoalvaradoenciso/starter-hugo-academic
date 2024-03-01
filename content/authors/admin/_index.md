@@ -18,8 +18,8 @@ role: Research and policy economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: World Bank
-    url: https://www.worldbank.org/
+  - name: International Monetary Fund
+    url: https://www.imf.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an economist for the Equitable Growth, Finance and Institutions (EFI) LAC office at the World Bank. My role primarily involves monitoring and ensuring the quality of analytical reports and lending operations. Additionally, I actively promote engagement in our projects aimed at fostering economic and inclusive growth. I have designed national policies, generated evidence for policymaking, and conducted media-impactful research. I also worked in the public sector in Peru in the areas of private sector development, labor, and education. Moreover, I worked at the Inter-American Development Bank (IDB), supporting the research agenda on labor and human capital issues and impact evaluation products.
+I am a research analyst for the Western Hemisphere Department at the International Monetary Fund. I have designed national policies, generated evidence for policymaking, and conducted research with significant media impact. Additionally, I have worked in the public sector in Peru, focusing on private sector development, labor, and education. Furthermore, I have experience at the Inter-American Development Bank (IDB), where I supported research on labor and human capital issues and contributed to impact evaluation projects. During my time at the World Bank (WBG), I ensured the quality of analytical reports and lending operations aimed at promoting inclusive green growth.
 {style="text-align: justify;"}
