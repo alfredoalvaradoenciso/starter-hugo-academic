@@ -35,6 +35,6 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN2 }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN3 }}
           external_repository: alfredoalvaradoenciso/alfredoalvaradoenciso.github.io
           publish_dir: ./public
