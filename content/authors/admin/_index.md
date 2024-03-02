@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a research analyst for the Western Hemisphere Department at the International Monetary Fund. I have designed national policies, generated evidence for policymaking, and conducted research with significant media impact. Additionally, I have worked in the public sector in Peru, focusing on private sector development, labor, and education. Furthermore, I have experience at the Inter-American Development Bank, where I supported research on labor and human capital issues and contributed to impact evaluation projects. At the World Bank, I ensured the quality of analytical reports and lending operations aimed at promoting inclusive green growth.
+I am a research analyst for the Western Hemisphere Department at the International Monetary Fund. I have designed national policies, generated evidence for policymaking, and conducted research with significant media impact. Additionally, I have worked in the public sector in Peru, focusing on private sector development, labor, and education. At the Inter-American Development Bank, I supported research on labor and human capital issues and contributed to impact evaluation projects. Also, I ensured the quality of analytical reports and lending operations aimed at promoting inclusive green growth at the World Bank.
 {style="text-align: justify;"}
