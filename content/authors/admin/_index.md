@@ -29,7 +29,6 @@ interests:
   - Labor markets and informality
   - Productivity
   - Policy impact evaluation
-  - Skills measurement survey
 
 # Education to show in About widget
 education:
