@@ -18,8 +18,8 @@ role: Research and policy economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: International Monetary Fund
-    url: https://www.imf.org/
+  - name: Pontifical Catholic University of Peru
+    url: https://www.pucp.edu.pe/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
